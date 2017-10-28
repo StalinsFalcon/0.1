@@ -2,13 +2,13 @@
 //  main.cpp
 //  Xcode
 //
-//  Created by TwoDollarsEsq on 10/28/17.
-//  Copyright © 2017 TwoDollarsEsq. All rights reserved.
+//  Created by Artyom Rudakov on 10/28/17.
+//  Copyright © 2017 Artyom Rudakov. All rights reserved.
 //
 
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-    std::cout << "Hello, World!\n";
+    std::cout << "Первый предсценник\n";
     return 0;
 }
