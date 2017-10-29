@@ -2,8 +2,8 @@
 //  main.cpp
 //  Xcode
 //
-//  Created by Artyom Rudakov on 10/28/17.
-//  Copyright © 2017 Artyom Rudakov. All rights reserved.
+//  Created by TwoDollarsEsq on 10/28/17.
+//  Copyright © 2017 TwoDollarsEsq. All rights reserved.
 //
 
 #include <iostream>
