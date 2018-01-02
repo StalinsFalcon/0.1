@@ -26,6 +26,7 @@
 		0F14321D1FA5251F0025635A /* Xcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Xcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F1432201FA5251F0025635A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0F1432271FA5EC6A0025635A /* Функции_оформления.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Функции_оформления.h"; sourceTree = "<group>"; };
+		0FDA19EB1FEEFF3C00C9291E /* Функции_ввода_и_проверки.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Функции_ввода_и_проверки.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				0F1432201FA5251F0025635A /* main.cpp */,
+				0FDA19EB1FEEFF3C00C9291E /* Функции_ввода_и_проверки.h */,
 				0F1432271FA5EC6A0025635A /* Функции_оформления.h */,
 			);
 			path = Xcode;
