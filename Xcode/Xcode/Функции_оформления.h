@@ -14,14 +14,14 @@
 using namespace std; using namespace this_thread;using namespace chrono;
 
 void titleShow(string act, string title){
-    
+    cout << endl;
     system("clear");
     cout << "                            " << act << "\n                           " << title << endl;
 }
 
 void statusBAr(string act, string health, string popularity)
 {
-    
+    cout << endl;
     system("clear");
     cout << "       " << act << "       Здоровье: " << health << "       Известность: " << popularity << endl;
 }
